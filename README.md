@@ -19,5 +19,5 @@
 <img width="1440" height="1296" alt="image" src="https://github.com/user-attachments/assets/63f39c92-a268-40be-af1a-59f176f1a416" />
 
 ## Result:
+**Thus,The Measurement of Numerical aperture of the fiber is calculated and output is verified.**
 
-Thus,The Measurement of Numerical aperture of the fiber is calculated and output is verified.
